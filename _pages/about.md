@@ -26,12 +26,12 @@ __EDUCATION__
 __WORKING PAPERS__
 ---
 
-- Pre-IPO Market Trading and IPO Performance (with Jiyoon Lee and Hyun-Han Shin)
+- Pre-IPO Market Trading and IPO Performance (with Jiyoon Lee, Hyun-Han Shin, and Byoungmoon Joe)
 
 __PUBLICATIONS__
 ---
 
-- <a href="https://doi.org/10.1016/j.pacfin.2023.101983" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[Forthcoming at the _Pacific-Basin Finance Journal_\]
+- <a href="https://doi.org/10.1016/j.pacfin.2023.101983" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[_Pacific-Basin Finance Journal_, Vol. 79, June 2023, 101983\]
 
 __RESEARCH EXPERIENCE__
 ---
