@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seung Chul (Eric) Lee"
 title_separator          : "-"
 name                     : &name "Seung Chul (Eric) Lee"
-description              : &description "Incoming Finance PhD Student at UT Austin"
+description              : &description "Finance PhD Student at UT Austin"
 url                      : https://ericsclee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericsclee/ericsclee.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seung Chul (Eric) Lee"
   avatar           : "photo.jpg"
-  bio              : "Hi, I am an incoming finance PhD student at UT Austin."
+  bio              : "Hi, I am a Finance PhD student at UT Austin."
   location         : "Austin, TX"
   employer         :
   pubmed           : 
