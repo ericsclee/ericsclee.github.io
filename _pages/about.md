@@ -13,7 +13,7 @@ I go by ___Eric___ in the US.
 __RESEARCH INTERESTS__
 ---
 
-Corporate finance, Entrepreneurial finance, Corporate governance, Emerging markets, Payout policy.
+FinTech, Entrepreneurial finance, Corporate governance.
 
 __EDUCATION__
 ---
