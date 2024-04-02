@@ -15,6 +15,7 @@ __Math Writing/LaTeX__
 
 __Coding__
 - RStudio's ggplot2 cheat sheet (<a href="https://rstudio.github.io/cheatsheets/data-visualization.pdf" target="_blank">link</a>)
+- RegExr to check/test regular expressions (<a href="https://regexr.com/" target="_blank">link</a>)
 
 __General PhD Advice__
 - M. Weisbach's _The Economist's Craft_ (<a href="https://u.osu.edu/weisbach.2/a-field-guide-to-economics/" target="_blank">link</a>)
