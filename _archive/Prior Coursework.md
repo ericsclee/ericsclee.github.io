@@ -6,7 +6,7 @@ permalink: /archive/coursework
 
 Archive of Past Coursework
 
-Summaries of material I have learned in past coursework, mostly for my own reference. For insstance, if I forget what Lebesgue's Dominated Convergence Theorem is, this is where I come back to.
+Summaries of material I have learned in past coursework, mostly for my own reference. For instance, if I forget what Lebesgue's Dominated Convergence Theorem is, this is where I come back to.
 
 
 The University of Chicago
