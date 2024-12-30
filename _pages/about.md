@@ -13,7 +13,7 @@ I go by ___Eric___ in the US.
 __RESEARCH INTERESTS__
 ---
 
-FinTech, Entrepreneurial finance, Corporate governance.
+FinTech, Entrepreneurial finance, Financial crimes, Corporate governance.
 
 __EDUCATION__
 ---
@@ -36,7 +36,8 @@ __PUBLICATIONS__
 __WORK IN PROGRESS__
 ---
 
-- Money Laundering Incentives and Cryptocurrency Prices (solo-work)
+- Black Markets and Cryptocurrency Prices (solo-work)
+- Complementarity in Human Capital of Cofounders (solo-work)
 
 __RESEARCH EXPERIENCE__
 ---
