@@ -26,13 +26,12 @@ __EDUCATION__
 __WORKING PAPERS__
 ---
 
-- The Effect of Carbon Risk on the Ownership Structure of Business Groups: Evidence from Korea (with Jiyoon Lee)
-- Pre-IPO Market Trading and IPO Performance (with Jiyoon Lee, Hyun-Han Shin, and Byoungmoon Joe)
+- The Effect of Carbon Risk on the Ownership Structure of Business Groups: Evidence from Korea (with <a href="https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=201" target="_blank">Jiyoon Lee</a>)
 
 __PUBLICATIONS__
 ---
 
-- <a href="https://doi.org/10.1016/j.pacfin.2023.101983" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[_Pacific-Basin Finance Journal_, Vol. 79, June 2023, 101983\]
+- <a href="https://doi.org/10.1016/j.pacfin.2023.101983" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with <a href="https://www.csusm.edu/coba/about/meet-our-faculty/shawnparkbio.html" target="_blank">Shawn Park</a>) \[_Pacific-Basin Finance Journal_, Vol. 79, June 2023, 101983\]
 
 __WORK IN PROGRESS__
 ---
