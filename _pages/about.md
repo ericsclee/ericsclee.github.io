@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Seung Chul (Eric) Lee"
-excerpt: "Seung Chul (Eric) Lee"
+title: "Eric S. C. Lee"
+excerpt: "Eric S. C. Lee"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I go by ___Eric___ in the US.
 
 __RESEARCH INTERESTS__
 ---
