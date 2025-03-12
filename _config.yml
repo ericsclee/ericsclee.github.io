@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seung Chul (Eric) Lee"
+title                    : "Eric S. C. Lee"
 title_separator          : "-"
-name                     : &name "Seung Chul (Eric) Lee"
+name                     : &name "Eric S. C. Lee"
 description              : &description "Finance PhD Student at UT Austin"
 url                      : https://ericsclee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
