@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Eric S. C. Lee"
-excerpt: "Eric S. C. Lee"
+title: "Eric Seung Chul Lee"
+excerpt: "Eric Seung Chul Lee"
 author_profile: true
 redirect_from: 
   - /about/
