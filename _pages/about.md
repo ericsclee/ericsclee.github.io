@@ -11,7 +11,7 @@ redirect_from:
 __RESEARCH INTERESTS__
 ---
 
-FinTech, Regulation, Entrepreneurial finance, Corporate governance.
+Financial Regulation, FinTech, Entrepreneurial finance, Corporate governance.
 
 __EDUCATION__
 ---
@@ -19,7 +19,7 @@ __EDUCATION__
 - PhD, _Finance_, The University of Texas at Austin, 2023 - 2028
 - MS, _Statistics_, The University of Chicago, 2021 - 2023
 - BBA, _Business Administration_, Yonsei University, 2014 - 2020
-  - Military Service (2016 - 2018)
+  - Military Service, ROK Cyber Command (2016 - 2018)
 
 __RESEARCH EXPERIENCE__
 ---
