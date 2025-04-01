@@ -11,7 +11,7 @@ redirect_from:
 __RESEARCH INTERESTS__
 ---
 
-Financial Regulation, FinTech, Entrepreneurial finance, Corporate governance.
+Financial Regulation, FinTech, Entrepreneurial Finance, Corporate Governance.
 
 __EDUCATION__
 ---
