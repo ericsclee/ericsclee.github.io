@@ -11,7 +11,7 @@ redirect_from:
 __RESEARCH INTERESTS__
 ---
 
-Financial Regulation, FinTech, Entrepreneurial Finance, Corporate Governance.
+Regulation, ESG, FinTech, Corporate Governance.
 
 __EDUCATION__
 ---
@@ -21,7 +21,7 @@ __EDUCATION__
 - BBA, _Business Administration_, Yonsei University, 2014 - 2020
   - Military Service, ROK Cyber Command (2016 - 2018)
 
-__RESEARCH EXPERIENCE__
+__RESEARCH EXPERIENCE (Pre-PhD)__
 ---
 
 - Research Assistant for <a href="https://emanuelecolonnelli.com/" target="_blank">Professor Emanuele Colonnelli</a> and <a href="https://thomas-rauter.com/" target="_blank">Professor Thomas Rauter</a> (Sept 2021 - Nov 2022)
