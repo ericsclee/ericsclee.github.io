@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I am a third-year PhD student in finance at the University of Texas at Austin, where I am also a <a href="https://harrington.utexas.edu/graduate-fellows-program" target="_blank">Harrington Graduate Fellow</a>.
+
 __RESEARCH INTERESTS__
 ---
 
