@@ -13,7 +13,7 @@ Hi, I am a PhD student in finance at the University of Texas at Austin, where I 
 __RESEARCH INTERESTS__
 ---
 
-Regulation, ESG, FinTech, Corporate Governance.
+Institutional Investors, ESG, FinTech.
 
 __EDUCATION__
 ---
