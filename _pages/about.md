@@ -33,7 +33,7 @@ __WORKING PAPERS__
 We provide the first comprehensive causal analysis of the economic impact of international anti-money laundering (AML) standards by leveraging the staggered timing of Financial Action Task Force (FATF) evaluations. Stronger AML policies lead to a 4% decline in bilateral trade, primarily in categories susceptible to trade-based money laundering, but this effect is reduced when trading partners' policies become more aligned. FDI increases by 8%. FATF assessments increase detection of money laundering cases by 37% but show no measurable effect on fraud or drug and human trafficking. Our findings highlight the benefits and costs of coordinating global anti-money laundering efforts.
 </p></details>
 
-<br><br>
+<br>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5823604" target="_blank">Guardians of the Globe? Institutional Investors' Preferences for Biodiversity</a> (with <a href="https://shikharsingla.com/" target="_blank">Shikhar Singla</a>)
 
