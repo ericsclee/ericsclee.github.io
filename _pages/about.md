@@ -35,11 +35,11 @@ We provide the first comprehensive causal analysis of the economic impact of int
 
 <br>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5823604" target="_blank">Guardians of the Globe? Institutional Investors' Preferences for Biodiversity</a> (with <a href="https://shikharsingla.com/" target="_blank">Shikhar Singla</a>)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5823604" target="_blank">Do Heterogeneous ESG Preferences Distort Corporate Bond Prices?</a> (with <a href="https://shikharsingla.com/" target="_blank">Shikhar Singla</a>)
 
 <details><summary>View Abstract</summary>
 <p>
-Using firms' exposure to areas of unprotected biodiversity importance and announcement of the 30-by-30 initiative, we employ a difference-indifferences design for corporate bonds. Mutual funds with high Sustainability Ratings decrease their holdings of bonds issued by nature-dependent firms with high biodiversity exposure. This decrease persists throughout Biden Administration's tenure and is not reversed following the 2024 Presidential Election. We also observe similar effects across different maturities. We interpret these results as institutional investors are not hedging against administration-specific or longer-term financial risk. Overall, our results support the existence of non-pecuniary preferences related to biodiversity.
+Heterogeneous investor preferences over ESG issues can generate divergent portfolio choices and distort prices from fundamentals, especially in illiquid markets. We study this mechanism in the corporate bond market around the 30-by-30 Initiative, which increased the salience of nature as an issue. Mutual funds with high ESG ratings reduce holdings of bonds issued by nature-dependent firms with high biodiversity exposure, while no other investor does. Credit spreads of these bonds increase but reverse within a year. This reversal, no change in holdings or spreads around the initiative's cancellation, and no abnormal transaction volume, imply prices are distorted by non-financial preferences.
 </p>
 </details>
 
