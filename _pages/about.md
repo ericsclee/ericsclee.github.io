@@ -39,7 +39,7 @@ We provide the first comprehensive causal analysis of the economic impact of int
 
 <details><summary>View Abstract</summary>
 <p>
-Heterogeneous investor preferences over ESG issues can generate divergent portfolio choices and distort prices from fundamentals, especially in illiquid markets. We study this mechanism in the corporate bond market around the 30-by-30 Initiative, which increased the salience of nature as an issue. Mutual funds with high ESG ratings reduce holdings of bonds issued by nature-dependent firms with high biodiversity exposure, while no other investor does. Credit spreads of these bonds increase but reverse within a year. This reversal, no change in holdings or spreads around the initiative's cancellation, and no abnormal transaction volume, imply prices are distorted by non-financial preferences.
+Heterogeneous investor preferences over ESG issues can generate divergent portfolio choices and distort prices from fundamentals, especially in illiquid markets. We study this mechanism in the corporate bond market around the 30-by-30 Initiative, which increased the salience of nature as an issue. Mutual funds with high ESG ratings reduce holdings of bonds issued by nature-dependent firms with high biodiversity exposure, while no other institutional investor does. Credit spreads of these bonds increase for a year. Further tests show the selling arises from non-financial incentives, causes outflows in other funds, and leads to a decline in price informativeness.
 </p>
 </details>
 
